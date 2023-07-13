@@ -7,5 +7,6 @@ cout<<"hello world"<<endl;
 int x=10;
 for(int i=0;i<x;i++){
 	cout<<"hello world"<<endl;
+	//x+=i;
 }
 ```
